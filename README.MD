@@ -41,10 +41,21 @@ This Python script automates the nomination process for the Cosmopolitan India B
 - Automates the nomination process for 22 different categories.
 - Takes influencer details as input and submits nominations.
 
+## Input data needed
+
+- Nomination Award name
+- Name of Instagram user
+- Instagram user id of the person
+
 ## Important Notes
 
 - The script interacts with the Cosmopolitan India Blogger Awards 2024 website. Use it responsibly and in accordance with the website's terms and conditions.
 - Ensure you have a reliable internet connection and the necessary dependencies installed.
+
+## Customization
+
+- If you want to use another set of input data, feel free to use it by changing the following on Line 50 of [main.py](main.py)   
+```file_to_login = open(NEW_INPUT_FILENAME, 'r+')```
 
 ## Contribution
 
