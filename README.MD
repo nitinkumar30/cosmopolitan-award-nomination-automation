@@ -56,7 +56,9 @@ This Python script automates the nomination process for the Cosmopolitan India B
 ## Customization
 
 - If you want to use another set of input data, feel free to use it by changing the following on Line 50 of [main.py](main.py)   
-```file_to_login = open(NEW_INPUT_FILENAME, 'r+')```
+```
+    file_to_login = open(NEW_INPUT_FILENAME, 'r+')
+```
 
 ## Contribution
 
