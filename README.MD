@@ -52,6 +52,7 @@ This Python script automates the nomination process for the Cosmopolitan India B
 
 - The script interacts with the Cosmopolitan India Blogger Awards 2024 website. Use it responsibly and in accordance with the website's terms and conditions.
 - Ensure you have a reliable internet connection and the necessary dependencies installed.
+- Instagram handle used in my output video is for [@themishaagrawalshow](https://www.instagram.com/themishaagrawalshow/).  
 
 ## Customization
 
