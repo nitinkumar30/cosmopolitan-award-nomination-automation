@@ -14,6 +14,7 @@ This Python script automates the nomination process for the Cosmopolitan India B
 
 [![Watch the Video](video/cosmopolitan-award-nomination-automation.mp4)](video/cosmopolitan-award-nomination-automation.mp4)
 
+
 ## Usage
 
 1. Clone this repository:
