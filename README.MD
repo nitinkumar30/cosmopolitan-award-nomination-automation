@@ -10,11 +10,6 @@ This Python script automates the nomination process for the Cosmopolitan India B
 2. **Chrome Browser**: The script uses ChromeDriver, so ensure you have the Chrome browser installed.
 3. **Dependencies**: Install the necessary Python packages by running `pip install -r requirements.txt`.
 
-## Usage video
-
-[![Watch the Video](video/cosmopolitan-award-nomination-automation.mp4)](video/cosmopolitan-award-nomination-automation.mp4)
-
-
 ## Usage
 
 1. Clone this repository:
