@@ -1,5 +1,7 @@
 # 🚀 **Cosmopolitan India Blogger Awards 2024 Nomination Automation Script**
 
+## Nominations for 2024 are now closed
+
 ## Overview
 
 This Python script automates the nomination process for the Cosmopolitan India Blogger Awards 2024. It uses Selenium and ChromeDriver to navigate through the website and submit nominations for various categories.
