@@ -1,6 +1,6 @@
 # 🚀 **Cosmopolitan India Blogger Awards 2024 Nomination Automation Script**
 
-## Nominations for 2024 are now closed
+## Nominations for 2024 are now closed **
 
 ## Overview
 
